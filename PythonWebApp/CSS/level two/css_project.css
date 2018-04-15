@@ -1,0 +1,21 @@
+td{
+
+  height: 200px;
+  width: 150px;
+  border: 6px solid white;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+.art{
+  margin: auto;
+}
+
+#One{background-color: #010101;}
+#two{background-color: #FFFFFF;}
+#three{background-color: #014561;}
+#four{background-color: #AFAEAE;}
+#five{background-color: #766B6F;}

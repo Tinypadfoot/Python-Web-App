@@ -1,0 +1,22 @@
+body{
+  background: url(https://www.islands.com/sites/islands.com/files/styles/1000_1x_/public/images/2016/12/darkwood-beach-antigua-shutterstock.jpg?itok=QRcBkBzz&fc=50,50)
+
+}
+
+div{
+  background: pink;
+
+  border-color: blue;
+  border-width: 5px;
+  border-style: double;
+
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}

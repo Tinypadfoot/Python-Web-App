@@ -1,0 +1,11 @@
+body {
+
+color: white;
+  background:#66CCCC;
+  text-align: center;
+margin-top: 0px; margin-right: 50px; margin-bottom: 10px; margin-left: 50px;
+}
+
+div{
+  background: #00004A; padding: 1px 80px 10px 80px;
+}
